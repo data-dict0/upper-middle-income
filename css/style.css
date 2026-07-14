@@ -4,9 +4,8 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-.container {
-  max-width: 700px;
-  margin: 0 auto;
+.container-fluid {
+ --bs-gutter-x: 3.5rem;
 }
 
 #graphic {
