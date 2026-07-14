@@ -24,6 +24,7 @@ body {
   background-color: #ffc62e;
   border-radius: 5px;
   padding: 5px;
+  border:#212529 solid 1px;
 }
 
 img.mobile {
